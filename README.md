@@ -1,10 +1,10 @@
-# Matplotlib Challenge
+# Matplotlib Analysis
 
 ## Background
 
 For this challenge I was given access to the complete data from Pymaceuticals' most recent animal study. In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. You have been tasked by the executive team to generate all of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary of the study results.
 
-This data can be found here at Pymaceuticals/data
+This data can be found [here](Pymaceuticals/data).
 
 ## Observations & Insights
 * Capomulin and Ramicane resulted in much smaller tumor volume at the end of their mice's timepoint's when compared with the other drugs. Suggesting that these drugs might be the most efficient
@@ -13,7 +13,7 @@ This data can be found here at Pymaceuticals/data
 
 ## Data Analysis
 
-The code and results of the following can be found here at Pymaceuticals/pymaceuticals.ipynb
+The code and results of the following can be found [here](Pymaceuticals/pymaceuticals.ipynb)
 
 * Cleaned the data by merging the two csv files into one DataFrame and and removing any duplicate timepoints.
 
